@@ -1,3 +1,5 @@
+
+```html
 //@OnlyCurrentDoc
 function processEdit(e) {  
   MailApp.sendEmail({
